@@ -51,13 +51,15 @@ The system evaluates patient safety based on the following metrics:
 | **SpO2 (Oxygen)** | 93% | 90% |
 | **Temperature** | 37.5°C | 38.5°C |
 
+## 📊 Technical Architecture
+
+For a detailed breakdown of the hardware and software interaction, see the diagram below:
+![System Structure](assets/system_Structure.png)
+
 ---
 
 ## 🖼️ System Preview
-![System Running](system_running.png)
-
----
-
+![System Running](assets/System_Preview.png)
 
 
 ---
