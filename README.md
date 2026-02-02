@@ -58,8 +58,7 @@ The system evaluates patient safety based on the following metrics:
 
 ---
 
-## 🛡️ Safety Note
-To protect your Twilio account, ensure that your `.env` file is added to your `.gitignore` before pushing this project to a public repository.
+
 
 ---
 
